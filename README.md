@@ -6,10 +6,11 @@ This project releases the automatic analysis tool and the data in the article:
 
 ## Prerequisites
 
-**1. Install Python, Java and required packages**
+**1. Install Python, Java, Perl and required packages**
 
 *   **`Python 3.7+`**
 *   **`Java 8+`**
+*   **`Perl 5.10.1+`**
 *   **`Pandas 0.22.0+`** (Python)
 *   **`language-tool-python 2.5.3+`** (Python)
 
