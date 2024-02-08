@@ -2,7 +2,7 @@
 
 This project releases the automatic analysis tool and the data in the article:
 
-<em>Xiaofei Lu and Renfen Hu (2024). Sense-aware connective-based indices of cohesion and their relationship to cohesion ratings of English language learners’ written production. Studies in Second Language Acquisition. in press. </em>
+<em>Xiaofei Lu and Renfen Hu (in press). Sense-aware connective-based indices of cohesion and their relationship to cohesion ratings of English language learners’ written production. Studies in Second Language Acquisition. </em>
 
 ## Prerequisites
 
