@@ -1,0 +1,679 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When#20#Temporal))
+      (S
+        (NP (DT a) (NN problem))
+        (VP (VBZ is)
+          (NP
+            (NP (DT a) (NN change))
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBP have)
+                  (S
+                    (VP (TO to)
+                      (VP (VB let)
+                        (S
+                          (NP (PRP it))
+                          (VP (VB do)
+                            (NP (DT the) (JJS best))
+                            (PP (IN on)
+                              (NP (PRP you)))))))))))))))
+    (NP
+      (NP (DT no) (NN matter))
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (VP (VBZ is)
+            (VP (VBG happening)
+              (NP (PRP it)))))))
+    (VP (MD can)
+      (VP (VB change)
+        (NP (PRP$ your) (NN mind))))
+    (. .)))
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP (PRP you))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB wake)
+              (PRT (RP up)))
+            (CC and#23#0)
+            (VP (VB look)
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (VP (VBZ is)
+                    (ADVP (RB around))
+                    (NP (PRP you))
+                    (SBAR (IN because#4#Contingency)
+                      (S
+                        (NP (NNS problems))
+                        (VP (VBP are)
+                          (NP
+                            (NP (DT the) (JJS best) (NN way))
+                            (S
+                              (VP (TO to)
+                                (VP (VB change)
+                                  (SBAR
+                                    (WHNP (WP what))
+                                    (S
+                                      (NP (PRP you))
+                                      (VP (VBP want)
+                                        (S
+                                          (VP (TO to)
+                                            (VP (VB change)
+                                              (NP (DT a) (JJ long) (NN time))
+                                              (PP (IN ago)))))))))))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (NN problem))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN change))
+        (PP (IN for#45#0)
+          (NP (PRP you))))
+      (SBAR (IN because#5#Contingency)
+        (S
+          (NP (PRP it))
+          (VP (MD can)
+            (VP (VB make)
+              (S
+                (NP (PRP you))
+                (VP
+                  (VP (VB see)
+                    (ADJP (JJ different)))
+                  (CC and#24#0)
+                  (VP (VB help)
+                    (S
+                      (NP (PRP you))
+                      (VP (TO to)
+                        (VP (VB understand)
+                          (SBAR
+                            (WHADVP (WRB how))
+                            (S
+                              (NP (NNS tings))
+                              (VP (VBP wok)))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (ADVP (RB First))
+    (NP (PRP it))
+    (VP (MD can)
+      (VP (VB make)
+        (S
+          (NP (PRP you))
+          (VP (VB see)
+            (ADJP (JJ different)
+              (PP (IN from)
+                (NP (DT the) (NNS others))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN For#1#Expansion)
+      (NP (NN example#1#Expansion)))
+    (NP (PRP I))
+    (VP (VBP remember)
+      (SBAR (IN that)
+        (S
+          (SBAR
+            (WHADVP (WRB when#21#Temporal))
+            (S
+              (NP (PRP I))
+              (VP (VBD came)
+                (PP (IN to)
+                  (NP (DT the) (NNP United) (NNP States))))))
+          (NP (PRP I))
+          (VP (VBP think)
+            (SBAR (IN that)
+              (S
+                (NP (NN nothing))
+                (VP (VBD was)
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB change)
+                          (NP (PRP me))
+                          (SBAR (IN because#6#Contingency)
+                            (S
+                              (NP (PRP I))
+                              (VP (VBP think)
+                                (SBAR (IN that)
+                                  (S
+                                    (NP (NN nothing))
+                                    (VP (VBD was)
+                                      (VP
+                                        (VP (VBG going)
+                                          (S
+                                            (VP (TO to)
+                                              (VP (VB change)
+                                                (NP (PRP me))
+                                                (SBAR (IN because#7#Contingency)
+                                                  (S
+                                                    (NP (NN everything))
+                                                    (VP (VBD was)
+                                                      (ADJP (JJ different))
+                                                      (SBAR (IN that)
+                                                        (S
+                                                          (NP (PRP$ my) (NN country))
+                                                          (PRN
+                                                            (S (CC and#25#Expansion)
+                                                              (ADVP (RB then#18#0))
+                                                              (NP (PRP i))
+                                                              (VP (VBZ realist)
+                                                                (SBAR (IN that)
+                                                                  (S
+                                                                    (S
+                                                                      (ADVP (RB wrong))
+                                                                      (SBAR (IN because#8#Contingency)
+                                                                        (S
+                                                                          (NP (DT a) (NN problem))
+                                                                          (VP
+                                                                            (VP (MD may)
+                                                                              (VP (VB change)
+                                                                                (NP (PRP you))))
+                                                                            (CC but#47#0)
+                                                                            (ADVP (RB sometimes))
+                                                                            (VP (MD can) (RB not)
+                                                                              (VP (VB change)
+                                                                                (NP (DT the) (NN way)))))))
+                                                                      (NP (PRP it))
+                                                                      (VP (VBZ is)))
+                                                                    (, ,)
+                                                                    (CC but#48#Comparison)
+                                                                    (S
+                                                                      (NP (PRP I))
+                                                                      (VP (VBP remember)
+                                                                        (SBAR (IN that)
+                                                                          (S
+                                                                            (NP (PRP I))
+                                                                            (VP (VBD was)
+                                                                              (ADJP (RB really) (JJ shy))))))))))))
+                                                          (CC but#49#Comparison)
+                                                          (NP (PRP I))
+                                                          (VP (VBP think)
+                                                            (SBAR (IN that)
+                                                              (S
+                                                                (S
+                                                                  (VP (VB change)
+                                                                    (NP (DT a) (NN lot))
+                                                                    (SBAR (IN because#9#Contingency)
+                                                                      (S
+                                                                        (S
+                                                                          (ADVP (RB sometimes))
+                                                                          (NP (PRP$ my) (NNS problems))
+                                                                          (VP (VBP make)
+                                                                            (SBAR
+                                                                              (S
+                                                                                (NP (PRP me))
+                                                                                (VP (VBP think)
+                                                                                  (SBAR (IN that)
+                                                                                    (S
+                                                                                      (NP (EX there))
+                                                                                      (VP (VBZ is)
+                                                                                        (NP (JJR more) (NN thing))
+                                                                                        (SBAR (IN that)
+                                                                                          (S
+                                                                                            (NP (PRP I))
+                                                                                            (ADVP (RB never))
+                                                                                            (VP (VBP see)
+                                                                                              (PP (IN in)
+                                                                                                (NP (PRP$ my) (NN life))))))))))))))
+                                                                        (CC but#50#Comparison)
+                                                                        (S
+                                                                          (NP (PRP I))
+                                                                          (ADVP (RB just))
+                                                                          (VP
+                                                                            (VP (VBP need)
+                                                                              (S
+                                                                                (VP (TO to)
+                                                                                  (VP (VB see)
+                                                                                    (NP (PRP it))
+                                                                                    (PP (IN from)
+                                                                                      (NP (DT a) (JJ different) (NN way)))))))
+                                                                            (CC and#26#0)
+                                                                            (VP (VBP do) (RB n't)
+                                                                              (VP (VB let)
+                                                                                (NP (NN nothing))))))))))
+                                                                (VP (VBD happened))))))))))))))
+                                        (CC and#27#0)
+                                        (VP (VBG ruing)
+                                          (NP (DT the) (NN change))
+                                          (SBAR (IN that)
+                                            (S
+                                              (NP (PRP I))
+                                              (VP (VBP want)
+                                                (S
+                                                  (VP (TO to)
+                                                    (VP (VB make)
+                                                      (PP (RB because#10#0) (IN of)
+                                                        (NP (RB just) (DT a) (NN problem))))))))))))))))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (PP (IN For#2#Expansion)
+        (NP (NN example#2#Expansion)))
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (SBAR (IN that)
+            (S
+              (NP (NN nothing))
+              (VP (VBD was)
+                (VP (VBG going)
+                  (S
+                    (VP (TO to)
+                      (VP (VB change)
+                        (NP (PRP me)))))))))
+          (CC and#28#Expansion)
+          (SBAR (IN that)
+            (S
+              (NP (PRP i))
+              (VP (VBP do) (RB n't)
+                (VP (VB need)
+                  (S
+                    (VP (TO to)
+                      (VP (VB be)
+                        (ADJP (JJ shy)
+                          (SBAR
+                            (S
+                              (ADVP (RB anymore))
+                              (VP (VBD became)
+                                (SBAR
+                                  (S
+                                    (NP (PRP I))
+                                    (VP (VBP need)
+                                      (S
+                                        (VP (TO to)
+                                          (VP (VB start)
+                                            (S
+                                              (VP (VBG seeing)
+                                                (NP (NN everything))
+                                                (PP (IN in)
+                                                  (NP (DT a) (JJ different) (NN way)))))))))))))))
+                        (SBAR (IN because#11#Contingency)
+                          (S
+                            (NP (PRP you))
+                            (VP (MD can)
+                              (VP (VB get)
+                                (ADJP (JJ mad)
+                                  (PP (IN at)
+                                    (NP (DT every) (NN one))))))))))))))))))
+    (, ,)
+    (CC but#51#Comparison)
+    (S
+      (NP (PRP you))
+      (VP
+        (VP (VBP need)
+          (S
+            (VP (TO to)
+              (VP (VB know)
+                (SBAR
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (VBZ is)
+                        (VP (VBG going)
+                          (S
+                            (VP (TO to)
+                              (VP (VB happen)
+                                (SBAR (IN after#16#Temporal) (, ,)
+                                  (S
+                                    (NP (NNS people))
+                                    (VP (MD may)
+                                      (VP (VB see)
+                                        (S
+                                          (NP (PRP you))
+                                          (ADJP (JJ different))))))))))))))
+                  (CC but#52#Comparison)
+                  (SBAR
+                    (NP (DT the) (JJ only) (NN way))
+                    (IN that)
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP know)
+                        (SBAR
+                          (WHADVP (WRB how))
+                          (S
+                            (S
+                              (VP (TO to)
+                                (VP (VB change))))
+                            (VP (VBZ is)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB do)
+                                    (NP (DT the) (JJS best))))))))))))))))
+        (CC and#29#0)
+        (VP (VBP do) (RB n't)
+          (VP (VB let)
+            (NP (NN nothing)
+              (CONJP (CC or#56#0)
+                (RB not))
+              (NN body))
+            (S
+              (VP (TO to)
+                (VP (VB change)
+                  (NP (NN nothing))
+                  (PP (IN about)
+                    (NP (PRP you))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN way))
+        (SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBP want)
+              (S
+                (VP (TO to)
+                  (VP (VB change)
+                    (NP (RB not) (CD one)))))))))
+      (VP
+        (VP (VBP have)
+          (NP (DT that)))
+        (CC and#30#0)
+        (VP (MD ca) (RB n't)
+          (VP (VB do)
+            (NP (NN nothing))
+            (PP (IN about)
+              (NP (PRP it)))
+            (SBAR (IN because#12#Contingency)
+              (S
+                (VP (VBZ is)
+                  (NP
+                    (NP (PRP$ your) (NN choice))
+                    (CC and#31#0)
+                    (NP (PRP$ your) (NNS problems))))))))))
+    (, ,)
+    (CC and#32#Expansion)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB decide)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (VP (TO to)
+                (VP (VB do)
+                  (PP (IN with)
+                    (NP (PRP it))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (JJ second))
+      (PP (IN of)
+        (NP (DT all))))
+    (VP (MD can)
+      (VP (VB help)
+        (S
+          (NP (PRP you))
+          (VP (TO to)
+            (VP (VB understand)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (NNS things))
+                  (VP (VBP work)))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (S
+        (PP (IN For#0#Expansion)
+          (NP (NN instance#0#Expansion)))
+        (NP (PRP$ my) (NN mom))
+        (VP (VBP have)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP (IN of)
+              (NP (NNS problems))))))
+      (, ,)
+      (CC but#53#Comparison)
+      (S
+        (NP (PRP she))
+        (VP (VBZ has)
+          (NP
+            (NP (NN faith))
+            (SBAR
+              (WHADVP (WRB when#22#Temporal))
+              (S
+                (NP (PRP she))
+                (VP (VBZ is)
+                  (PP (IN around)
+                    (NP (NNS people)))))))))
+      (, ,)
+      (S
+        (NP (PRP$ my) (NN mom))
+        (VP (VBZ is)
+          (NP
+            (NP (NN scare))
+            (PP (IN of)
+              (NP (NN high))))))
+      (CC and#33#Expansion)
+      (S
+        (NP (PRP I))
+        (VP (VBP 'm) (RB not)
+          (NP
+            (NP (NN scare))
+            (PP (IN of)
+              (S
+                (S
+                  (ADVP (RB high))
+                  (NP (PRP I))
+                  (VP (VBD did) (RB not)
+                    (VP (VB understand)
+                      (SBAR
+                        (WHADVP (WRB why))
+                        (S
+                          (NP (PRP$ my) (NN mos))
+                          (VP (VBZ is)
+                            (NP
+                              (NP (NN scare))
+                              (PP (IN of)
+                                (NP (NN high))))))))))
+                (CC and#34#Expansion)
+                (S
+                  (S
+                    (PP (IN in)
+                      (NP
+                        (NP (RB not) (NN scare))
+                        (PP (IN of)
+                          (NP
+                            (ADJP (JJ high)
+                              (CC and#35#0)
+                              (DT every))
+                            (NN time)))))
+                    (NP (PRP I))
+                    (VP
+                      (VP (VBP see)
+                        (NP (PRP$ my) (NN mom))
+                        (PP (IN in)
+                          (NP
+                            (NP (DT an) (NN airplane))
+                            (SBAR
+                              (S
+                                (NP (PRP it))
+                                (VP (VBZ makes)
+                                  (SBAR
+                                    (S
+                                      (NP (PRP me))
+                                      (VP (VBP laugh)
+                                        (SBAR (IN because#13#Contingency)
+                                          (S
+                                            (NP (PRP she))
+                                            (VP (VBZ is)
+                                              (NP (NN scare))))))))))))))
+                      (CC and#36#0)
+                      (VP (VBZ is)
+                        (ADJP (JJ funny)))))
+                  (, ,)
+                  (CC but#54#Comparison)
+                  (S
+                    (NP (PRP I))
+                    (VP (VBP see)
+                      (NP (PRP it))
+                      (PP (IN from)
+                        (NP (DT a) (JJ different) (NN way))))))
+                (CC and#37#0)
+                (S
+                  (NP (PRP I))
+                  (PP (IN like)
+                    (NP (DT the) (JJ high))))))))))
+    (CC but#55#Comparison)
+    (S
+      (ADVP (RB also#17#Expansion))
+      (NP (PRP she))
+      (VP (VBZ has)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (SBAR (IN that)
+                (S
+                  (NP (NN hoe) (NNS things))
+                  (VP (VBP work)
+                    (PP (IN in)
+                      (NP (JJ other) (NNS people)))
+                    (SBAR (IN because#14#Contingency)
+                      (S
+                        (NP (PRP it))
+                        (VP (MD can) (RB not)
+                          (VP (VB be)
+                            (NP
+                              (NP (DT the) (JJ same))
+                              (PP (IN as#57#0)
+                                (NP (PRP you))))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (PP (IN For#3#Expansion)
+        (NP (NN example#3#Expansion)))
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (PRP$ my) (NN mom))
+              (CC and#38#0)
+              (NP (PRP me)))
+            (VP (VBP are)
+              (ADJP (JJ different)
+                (SBAR (IN because#15#Contingency)
+                  (S
+                    (NP (PRP we))
+                    (VP (VBP are))))))))))
+    (CC and#39#Expansion)
+    (S
+      (NP (PRP I))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (SBAR (IN that)
+                (S
+                  (NP (PRP she))
+                  (VP (VBZ does) (RB not)
+                    (VP (VB like)
+                      (ADJP (JJ high)))))))))))
+    (CC and#40#Expansion)
+    (S
+      (NP (PRP I))
+      (VP (VBP need)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (NP (DT that)))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (VP (TO To)
+        (VP (VB help)
+          (NP (NN someone))
+          (S
+            (VP (TO to)
+              (VP (VB understand)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (NP (NNS things))
+                    (VP (VBP work)
+                      (NP (PRP you)))))))))))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP (VB start)
+            (S
+              (VP (TO to)
+                (VP (VB see)
+                  (SBAR
+                    (WHADVP (WRB how))
+                    (S
+                      (NP (NNS things))
+                      (VP (VBP work)
+                        (PP (IN in)
+                          (NP
+                            (NP (DT that) (NNS persons) (POS '))
+                            (NN life)))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (NN problem))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN change))
+          (PP (IN for#46#0)
+            (NP (PRP you)))))
+      (CC and#41#0)
+      (VP (MD can)
+        (VP
+          (VP (VB make)
+            (NP (PRP you))
+            (NP (DT a) (JJ different)))
+          (CC and#42#0)
+          (VP (VB help)
+            (S
+              (NP (PRP you))
+              (VP (TO to)
+                (VP (VB understand))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NN Everyone))
+      (VP (VBZ has)
+        (NP (DT a) (JJ different) (NN opinion))))
+    (CC and#43#Expansion)
+    (S
+      (NP (DT a) (JJ different))
+      (VP (VBD was)
+        (S
+          (VP (TO to)
+            (VP (VB understand)
+              (ADVP (RB then#19#0))
+              (NP (NNS others)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NN Everyone))
+    (VP (MD can)
+      (VP (VB see)
+        (NP
+          (NP (DT the) (JJ different) (NN opinion))
+          (CC and#44#0)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (JJ other) (NNS people))
+              (VP (VBP think)))))))
+    (. .)))

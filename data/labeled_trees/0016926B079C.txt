@@ -1,0 +1,341 @@
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR (IN that)
+        (S
+          (NP (NNS students))
+          (VP (MD would)
+            (VP (VB benefit)
+              (PP (IN from)
+                (S
+                  (VP (VBG learning)
+                    (PP (IN at)
+                      (NP (NN home))))))
+              (, ,)
+              (SBAR (IN because#0#Contingency)
+                (S
+                  (NP (PRP they))
+                  (VP (MD wo) (RB n't)
+                    (VP (VB have)
+                      (S
+                        (VP (TO to)
+                          (VP
+                            (VP (VB change))
+                            (CC and#16#0)
+                            (VP (VB get)
+                              (ADVP (RB up) (RB early))
+                              (PP (IN in)
+                                (NP (DT the) (NN morning)))))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB shower)
+                            (CC and#17#0)
+                            (VB do)
+                            (NP (PRP$ there) (NN hair))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (VP (VBG Taking)
+        (NP (JJ only) (NNS classes))))
+    (VP (VBZ helps)
+      (NP (PRP them))
+      (SBAR (IN because#1#Contingency)
+        (S
+          (PP (IN at)
+            (NP (PRP$ their) (NN house)))
+          (NP (PRP they))
+          (VP (MD 'll)
+            (VP (VB be)
+              (VP (VB pay)
+                (NP (JJR more) (NN attention))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (JJ comfortable)
+          (PP (IN at)
+            (NP (NN home))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS hardest) (NN part))
+      (PP (IN of)
+        (NP (NN school))))
+    (VP (VBZ is)
+      (VP (VBG getting)
+        (ADJP (JJ ready))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP wake) (RB up)
+      (VP (VB go)
+        (S
+          (VP
+            (VP (VB brush)
+              (NP (PRP$ your) (NNS teeth)))
+            (CC and#18#0)
+            (VP
+              (VP (VB go)
+                (PP (IN to)
+                  (NP (PRP$ your) (NN closet))))
+              (CC and#19#0)
+              (VP (VB look)
+                (PP (IN at)
+                  (NP (PRP$ your) (NNS cloths)))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (SBAR (IN After#8#Temporal)
+        (S
+          (NP (PRP you))
+          (VP (VBP think)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBD picked)
+                  (NP (DT an) (NN outfit))))))))
+      (NP (PRP u))
+      (VP (VBP go)
+        (VP (VB look)
+          (PP (IN in)
+            (NP (DT the) (NN mirror))))))
+    (CC and#20#Expansion)
+    (S
+      (NP (PRP you))
+      (VP (MD 'll)
+        (ADVP (RB either#4#0))
+        (RB not)
+        (VP (VB like)
+          (S
+            (NP (PRP it)
+              (CC or#4#0)
+              (PRP you))
+            (VP (VB look)
+              (CC and#21#0)
+              (VB see)
+              (NP (DT a) (NN stain)))))))
+    (. .)))
+(ROOT
+  (S
+    (ADVP (RB Then#13#Temporal))
+    (NP (PRP you))
+    (VP (MD 'll)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP (VB change))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (PP (IN With)
+        (NP (DT the) (JJ online) (NNS classes)))
+      (NP (PRP you))
+      (VP (MD can)
+        (VP
+          (VP (VB wear)
+            (NP (NN anything)))
+          (CC and#22#0)
+          (VP (VB stay)
+            (ADVP (RB home))))))
+    (CC and#23#Expansion)
+    (S
+      (NP (PRP you))
+      (VP (MD wo) (RB n't)
+        (VP (VB need)
+          (S
+            (VP (TO to)
+              (VP (VB stress)
+                (PP (IN about)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (TO to)
+                        (VP (VB wear))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (JJS Most) (NNS students))
+    (ADVP (RB usually))
+    (VP (VBP take)
+      (NP (NNS showers))
+      (PP (IN before#6#0)
+        (NP (NN school))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB either#5#0))
+    (VP (VBP take)
+      (NP (PRP it))
+      (SBAR
+        (SBAR (IN before#7#Temporal)
+          (S
+            (NP (PRP they))
+            (VP (VBP sleep))))
+        (CC or#5#0)
+        (SBAR
+          (WHADVP (WRB when#9#Temporal))
+          (S
+            (NP (PRP they))
+            (VP (VBP wake)
+              (PRT (RP up)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT some) (NNS students))
+    (VP (VBP do)
+      (S
+        (VP (DT both) (TO to)
+          (VP (VB smell)
+            (ADJP (JJ good))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ causes)
+      (SBAR
+        (S
+          (NP (PRP them))
+          (VP (VBP do)
+            (VP (VB miss)
+              (NP (DT the) (NN bus)
+                (CC and#24#0)
+                (NNS effects))
+              (PP (IN on)
+                (NP (PRP$ their) (NN lesson) (NN time)))
+              (SBAR (IN because#2#Contingency)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP come)
+                    (ADVP (RB late))
+                    (PP (IN to)
+                      (NP (NN school)))))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When#10#Temporal))
+      (S
+        (NP (PRP u))
+        (VP (VBP have)
+          (NP (JJ online) (NNS classes)))))
+    (NP (PRP u))
+    (VP (MD wo) (RB n't)
+      (VP (VB need)
+        (S
+          (VP (TO to)
+            (VP (VB miss)
+              (NP (NNS lessons))
+              (SBAR
+                (SBAR (IN because#3#Contingency)
+                  (S
+                    (NP (PRP you))
+                    (VP (MD can)
+                      (VP
+                        (VP (VB get)
+                          (NP (NN everything) (NN set))
+                          (PRT (RP up)))
+                        (CC and#25#0)
+                        (VP (VB go)
+                          (S
+                            (VP (VB take)
+                              (NP (DT a) (NN shower)))))))))
+                (CC and#26#Expansion)
+                (SBAR
+                  (WHADVP (WRB when#11#Temporal))
+                  (S
+                    (NP (PRP u))
+                    (VP (VBP get)
+                      (PRT (RP out))
+                      (NP (PRP$ your) (JJ ready))
+                      (S
+                        (VP (TO to)
+                          (VP (VB go)))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (FRAG
+      (ADVP (WRB when#12#0))
+      (NP
+        (NP (PRP$ your) (NN home))
+        (NP (PRP$ your) (JJ comfortable))))
+    (, ,)
+    (CC and#27#Expansion)
+    (S
+      (NP (PRP you))
+      (VP (VBP pay)
+        (NP (NN attention))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ gives)
+      (ADVP (RB then#14#0))
+      (NP (DT an) (NN advantage)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB be)
+                (ADJP (JJR smarter)))
+              (CC and#28#0)
+              (ADVP (RB even))
+              (VP (VB pass)
+                (NP (PRP$ there) (NNS classmates))
+                (PP (IN on)
+                  (NP (NN class) (NN work)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (JJ Public) (NNS schools))
+    (VP (VBP are)
+      (ADJP (JJ difficult))
+      (SBAR (RB even) (IN if#30#Contingency)
+        (S
+          (NP (PRP you))
+          (VP (VBP try)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Some) (NN teacher))
+    (VP (VBP do) (RB n't)
+      (VP (VB know)
+        (SBAR
+          (WHADVP (WRB how))
+          (S
+            (VP (TO to)
+              (VP (VB teach)
+                (NP (PRP it))
+                (PRT (RP in))
+                (ADVP
+                  (ADVP (RB then#15#0) (RB way))
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNS students))
+                      (VP (VBP understand)
+                        (NP (PRP it))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT that))
+      (VP (VBZ causes)
+        (NP (NNS students))
+        (S
+          (VP (TO to)
+            (VP (VB fail))))))
+    (, ,)
+    (CC and#29#Expansion)
+    (S
+      (NP (PRP they))
+      (VP (MD may)
+        (VP (VB repeat)
+          (NP (DT the) (NN class)))))
+    (. .)))

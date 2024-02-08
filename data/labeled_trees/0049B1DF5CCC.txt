@@ -1,0 +1,289 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Small) (NN act))
+        (PP (IN of)
+          (NP (NN kindness))))
+      (VP (MD can)
+        (VP (VB impact)
+          (SBAR (IN in)
+            (S
+              (NP (JJ other) (NNS people))
+              (VP (MD can)
+                (VP (VB change)
+                  (NP (NNS people))
+                  (S
+                    (VP (TO to)
+                      (VP (VB become)
+                        (NP
+                          (NP (JJR better) (NNS persons))
+                          (SBAR
+                            (S
+                              (NP (PRP you))
+                              (VP (MD can)
+                                (VP (VB have)
+                                  (NP
+                                    (NP (DT an) (NN impact))
+                                    (PP (IN of)
+                                      (NP (NN kindness)))))))))
+                        (PP
+                          (PP (IN with)
+                            (NP
+                              (NP (DT a) (NN homeless))
+                              (SBAR
+                                (WHNP (WDT that))
+                                (S
+                                  (VP (MD can)
+                                    (VP (VB change)
+                                      (NP (PRP$ his) (NN life))))))))
+                          (CC or#11#0)
+                          (PP (IN with)
+                            (NP
+                              (NP (DT some))
+                              (SBAR
+                                (WHNP (WP who))
+                                (S
+                                  (VP (VBD needed)
+                                    (SBAR
+                                      (S
+                                        (NP (PRP they))
+                                        (VP (VBP are)
+                                          (VP (VBG going)
+                                            (S
+                                              (VP (TO to)
+                                                (VP (VB know)
+                                                  (SBAR
+                                                    (S
+                                                      (NP (PRP you))
+                                                      (VP (VBP are)
+                                                        (NP
+                                                          (NP (DT a) (JJ nice) (NN person))
+                                                          (SBAR
+                                                            (S
+                                                              (SBAR (IN if#14#Contingency)
+                                                                (S
+                                                                  (NP (PRP you))
+                                                                  (VP (VBP are)
+                                                                    (NP (DT a) (JJ nice) (NN person))
+                                                                    (ADVP (RB everywhere))
+                                                                    (PRN
+                                                                      (S
+                                                                        (NP (PRP you))
+                                                                        (VP (VBP go)
+                                                                          (SBAR
+                                                                            (S
+                                                                              (NP (NNS people))
+                                                                              (VP (VBP are)
+                                                                                (VP (VBG going)
+                                                                                  (S
+                                                                                    (VP (TO to)
+                                                                                      (VP (VB like)
+                                                                                        (NP (PRP$ your) (NN personality)))))))))
+                                                                          (, ,)
+                                                                          (SBAR (IN so#16#Contingency)
+                                                                            (S
+                                                                              (NP (PRP you))
+                                                                              (VP (VBP have)
+                                                                                (S
+                                                                                  (VP (TO to)
+                                                                                    (VP (VB be)
+                                                                                      (NP
+                                                                                        (NP (DT a) (JJ nice) (NN person))
+                                                                                        (PP (IN with)
+                                                                                          (NP
+                                                                                            (NP (NNS others))
+                                                                                            (PP (IN like)
+                                                                                              (NP
+                                                                                                (NP (DT a) (JJ old) (NN woman))
+                                                                                                (VP (VBG trying)
+                                                                                                  (S
+                                                                                                    (VP (TO to)
+                                                                                                      (VP (VB cross)
+                                                                                                        (NP
+                                                                                                          (NP (DT the) (NN road))
+                                                                                                          (SBAR
+                                                                                                            (WHNP (WDT that))
+                                                                                                            (S
+                                                                                                              (VP (VBZ 's)
+                                                                                                                (NP
+                                                                                                                  (NP (DT an) (NN impact))
+                                                                                                                  (PP (IN of)
+                                                                                                                    (NP (NN kindness))))))))))))))))))))))))))
+                                                                    (SBAR
+                                                                      (WHADVP (WRB when#2#Temporal))
+                                                                      (S
+                                                                        (NP (PRP you))
+                                                                        (VP (VBP do)
+                                                                          (SBAR (IN that)
+                                                                            (S
+                                                                              (NP (PRP you))
+                                                                              (VP (VBP feel)
+                                                                                (NP
+                                                                                  (NP (DT a) (JJ great) (NN person))
+                                                                                  (SBAR
+                                                                                    (S
+                                                                                      (NP (PRP you))
+                                                                                      (VP (MD can)
+                                                                                        (VP (VB change)
+                                                                                          (NP (NNS people))
+                                                                                          (PP (IN in)
+                                                                                            (NP (DT the) (NN way)))))))))))))))))
+                                                              (NP (PRP they))
+                                                              (VP (VBP think)
+                                                                (PP (IN by)
+                                                                  (S
+                                                                    (VP (VBG helping)
+                                                                      (NP (NNS others))
+                                                                      (S
+                                                                        (VP (VBG treating)
+                                                                          (S
+                                                                            (NP (JJ nice) (JJ other) (NNS people))
+                                                                            (VP (VB give)
+                                                                              (NP (PRP them))
+                                                                              (NP (DT some) (NN advice))
+                                                                              (SBAR
+                                                                                (WHADVP (WRB when#3#Temporal))
+                                                                                (S
+                                                                                  (NP (PRP you))
+                                                                                  (VP (VBP see)
+                                                                                    (SBAR
+                                                                                      (S
+                                                                                        (NP (NN someone))
+                                                                                        (VP (VBP need)
+                                                                                          (S
+                                                                                            (NP (PRP it))
+                                                                                            (VP (VB help)
+                                                                                              (NP (NN someone) (JJR older))
+                                                                                              (SBAR (IN than)
+                                                                                                (S
+                                                                                                  (NP (PRP you))
+                                                                                                  (VP (VBP give)
+                                                                                                    (SBAR
+                                                                                                      (S
+                                                                                                        (NP
+                                                                                                          (NP (NN food))
+                                                                                                          (CC and#9#0)
+                                                                                                          (NP
+                                                                                                            (NP (JJ new) (NNS clothes))
+                                                                                                            (PP (IN to)
+                                                                                                              (NP (DT a) (JJ homeless) (NN person)))))
+                                                                                                        (VP (VBZ is)
+                                                                                                          (NP
+                                                                                                            (NP (DT a) (JJ big) (NN act))
+                                                                                                            (PP (IN of)
+                                                                                                              (NP (NN kindness))))
+                                                                                                          (ADVP (RB maybe))
+                                                                                                          (NP (PRP you))))))))))))))))
+                                                                              (SQ
+                                                                                (NP (NNP Mount))
+                                                                                (VP (VB change)
+                                                                                  (NP (PRP$ his) (NN life)))))))))))))))))))))))))))))))))))))))))
+    (, ,)
+    (CC but#8#Comparison)
+    (S
+      (NP (PRP you))
+      (VP (MD would)
+        (VP (VB change)
+          (NP
+            (NP (CD one) (NN day))
+            (PP (IN of)
+              (NP (PRP$ his) (NN life))))
+          (SBAR
+            (WHADVP (WRB when#4#Temporal))
+            (S
+              (NP (PRP you))
+              (VP (VBP do)
+                (NP
+                  (NP (DT those) (NNS stuffs))
+                  (SBAR
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP feel)
+                        (ADJP (JJ emotional))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT Another) (NN example))
+      (PP (IN of)
+        (NP
+          (NP (DT an) (NN act))
+          (PP (IN of)
+            (NP (NN kindness))))))
+    (VP (VBZ is)
+      (SBAR
+        (SBAR
+          (WHADVP (WRB when#5#Temporal))
+          (S
+            (NP (PRP you))
+            (VP
+              (VP (VB help)
+                (NP (PRP$ your) (NNS friends))
+                (S
+                  (VP (TO to)
+                    (VP (VB study)
+                      (PP (IN for#7#0)
+                        (NP (DT a) (NN test)))))))
+              (CC or#12#0)
+              (VP (VB explain)
+                (NP (PRP them))))))
+        (CC or#13#Expansion)
+        (SBAR
+          (WHADVP (WRB when#6#Temporal))
+          (S
+            (NP (PRP they))
+            (VP (VBP need)
+              (NP
+                (NP (NN money))
+                (SBAR
+                  (S
+                    (NP (PRP you))
+                    (VP (VBP give)
+                      (SBAR
+                        (S
+                          (NP (DT some) (NN money))
+                          (VP (VBZ is)
+                            (NP
+                              (NP (DT an) (NN act))
+                              (PP (IN of)
+                                (NP (NN kindness))))
+                            (SBAR (IN because#0#Contingency)
+                              (S
+                                (NP (PRP you))
+                                (VP (VBP are)
+                                  (VP (VBG helping)
+                                    (NP (PRP$ your) (NN friend))))))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Another) (NN example))
+    (VP (VBZ is) (RB not)
+      (VP (VBG trowing)
+        (NP (NN trash))
+        (PP (IN on)
+          (NP (DT the) (NN floor)))
+        (SBAR (IN if#15#Contingency)
+          (S
+            (NP (PRP you))
+            (VP (VBD put)
+              (NP (DT the) (NN trash))
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (VP (VBP belong)
+                    (SBAR (IN that)
+                      (S
+                        (VP (VBZ is)
+                          (NP
+                            (NP (DT an) (NN act))
+                            (PP (IN of)
+                              (NP (NN kindness))))
+                          (SBAR (IN because#1#Contingency)
+                            (S
+                              (VP (VBZ benefits)
+                                (NP
+                                  (NP (DT the) (NN earth))
+                                  (CC and#10#0)
+                                  (NP (DT the) (NNS people)))))))))))))))))
+    (. .)))

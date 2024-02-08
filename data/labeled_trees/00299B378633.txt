@@ -1,0 +1,415 @@
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Dear))
+      (, ,)
+      (NP (NN Principal)))
+    (SBAR (IN If#25#Contingency)
+      (S
+        (NP (PRP u))
+        (VP (VBP change)
+          (NP
+            (NP (DT the) (NN school) (NN policy))
+            (PP (IN of)
+              (S
+                (VP (VBG having)
+                  (NP
+                    (NP (DT a)
+                      (NML (NN grade) (NN b))
+                      (NN average))
+                    (SBAR (IN that)
+                      (FRAG
+                        (ADJP (JJ unfair))))))))))))
+    (. .)))
+(ROOT
+  (SBAR (IN Because#1#Contingency)
+    (S
+      (NP (JJ many) (NNS students))
+      (VP (VBP have)
+        (NP (DT a) (NN C) (NN average))))
+    (. .)))
+(ROOT
+  (S (CC So#0#Contingency)
+    (SBAR
+      (WHNP (WDT that#0#Contingency))
+      (S
+        (VP (VBZ means)
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP (MD ca) (RB n't)
+                (VP (VB go)
+                  (PRT (RP out))
+                  (PP (IN for#12#0)
+                    (NP
+                      (NP (NNS sports))
+                      (CC or#19#0)
+                      (NP (JJ other) (NNS activities)))))))))))
+    (NP (PRP they))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB do)
+            (ADJP (JJ bad))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (PP (IN like)
+        (S
+          (VP (VBG taking)
+            (NP
+              (NP (NN everything))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (VBP have)))))))))
+    (. .)))
+(ROOT
+  (SBAR (WP What) (IN if#26#0)
+    (S
+      (S
+        (NP (NNS kids))
+        (VP (VBP want)
+          (S
+            (VP (TO to)
+              (VP (VB become)
+                (ADJP (JJ good)
+                  (PP (IN at)
+                    (NP (NN something)))))))))
+      (, ,)
+      (CC but#8#Comparison)
+      (S
+        (ADVP (RB now))
+        (NP (PRP they))
+        (VP (MD ca) (RB n't)
+          (VP
+            (PP (RB because#2#0) (IN of)
+              (NP (DT that) (NN school) (NN policy)))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN If#27#Contingency)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (NP (DT a) (NN C) (NN average)))))
+    (NP (PRP they))
+    (VP (MD should)
+      (ADVP (RB still#4#0))
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (PRT (RP out))
+                (PP (IN for#13#0)
+                  (NP (NNS sports)
+                    (CC or#20#0)
+                    (NNS activities)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (NN C) (NN average))
+    (VP (VBZ is) (RB n't)
+      (NP
+        (NP (DT that) (JJ bad))
+        (, ,)
+        (NP (PRP$ its)
+          (ADJP
+            (ADJP (JJR higher))
+            (PP (IN than)
+              (NP (DT a) (NN D))))
+          (NN average))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN If#28#Contingency)
+      (S
+        (NP (DT the) (NN school) (NN police))
+        (VP (VBD was)
+          (SBAR (IN if#29#Contingency)
+            (S
+              (NP (PRP you))
+              (VP (VBP have)
+                (NP
+                  (NP (DT a) (NN D) (NN average))
+                  (PP (IN of)
+                    (NP (JJR lower))))))))))
+    (NP (PRP they))
+    (VP (MD should) (RB n't)
+      (VP (VB do)
+        (NP (NNS sports)
+          (CC or#21#0)
+          (NNS activities))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN If#30#Contingency)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (NP
+            (NP (DT a) (NN D) (NN average))
+            (PP (IN in)
+              (NP (NN school))))
+          (PP (IN for#14#0)
+            (S (RB not)
+              (VP (VBG working)
+                (ADVP (RB hard))))))))
+    (, ,)
+    (NP (DT that))
+    (VP (VBZ 's)
+      (NP (NNS means))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (ADVP (RB in))
+          (VP (VBP ai) (RB n't)
+            (VP (VBG going)
+              (S
+                (VP (TO to)
+                  (VP (VB try)
+                    (ADVP (RB hard))))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN If#31#Contingency)
+      (S
+        (NP (PRP they))
+        (VP (VBP have)
+          (NP
+            (NP (DT a) (NN C))
+            (UCP
+              (ADJP (JJ average))
+              (CC and#5#0)
+              (VP
+                (ADVP (RB there))
+                (VBG trying)))))))
+    (ADVP (RB hard))
+    (NP (PRP they))
+    (VP (MD should)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (PP (IN to)
+            (NP
+              (NP (NN out))
+              (PP (IN for#15#0)
+                (NP (NNS sports)
+                  (CC or#22#0)
+                  (NNS activities))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (WHNP (WP What))
+      (S
+        (SBAR (IN if#32#Contingency)
+          (S
+            (NP
+              (NP (PDT all) (DT the) (JJ good) (NNS people))
+              (PP (IN in)
+                (NP (NNS sports))))
+            (VP (VBP have)
+              (NP
+                (NP (DT a) (NN C) (NN average))
+                (PP (IN in)
+                  (NP (NN school)))))))
+        (, ,)
+        (NP (DT that))
+        (VP (VBZ means)
+          (SBAR (IN that)
+            (S
+              (NP (PRP they))
+              (VP
+                (VP (MD ca) (RB n't)
+                  (VP (VB play)))
+                (CC and#6#0)
+                (VP (VBD were)
+                  (VP (VBG going)
+                    (S
+                      (VP (TO to)
+                        (VP (VB lose)
+                          (NP (DT every) (NN game)))))))))))))
+    (NP (PRP we))
+    (VP (VBP have))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT That))
+    (VP
+      (VP (VBZ 's)
+        (NP (DT a) (JJ good) (NN policy)
+          (S
+            (VP (TO to)
+              (VP (VB get)
+                (NP
+                  (NP (NN grade) (POS 's))
+                  (NN up)))))))
+      (CC but#9#0)
+      (VP (VBP do) (RB n't)
+        (VP (VB take)
+          (PRT (RP away))
+          (NP
+            (NP (NN something))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (VBP care)
+                  (PRT (RP about)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NN Everyone))
+    (VP (MD should)
+      (VP (VB be)
+        (ADJP (JJ able)
+          (S
+            (VP (TO to)
+              (VP (VB go)
+                (PRT (RP out))
+                (PP (IN for#16#0)
+                  (NP (NNS sports)))
+                (SBAR (IN if#33#Contingency)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBP want)
+                      (PP (IN to)))))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN If#34#Contingency)
+      (S
+        (NP (DT the) (NN school) (NN policy))
+        (VP (VBZ happens))))
+    (, ,)
+    (NP
+      (NP (NNS schools))
+      (VP (VBG going)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBG boarding)
+                (ADVP (RB now))
+                (, ,)
+                (PP (IN because#3#0)
+                  (NP (JJ now) (NNS students)))))))))
+    (VP (MD ca) (RB n't)
+      (VP (VB go)
+        (PRT (RP out))
+        (PP (IN for#17#0)
+          (NP
+            (NP (NNS sports))
+            (CC or#23#0)
+            (NP (JJ other) (NNS activities))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NNS students))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBP are)
+              (VP (VBG doing)
+                (ADJP (JJ good)
+                  (PP (IN in)
+                    (NP (NN school)))))))))
+      (VP (MD should)
+        (VP (VB feel)
+          (ADJP (JJ good)
+            (PP (IN about)
+              (NP (PRP themselves)))))))
+    (, ,)
+    (CC but#10#Comparison)
+    (S
+      (NP (PRP we))
+      (VP (MD should) (RB n't)
+        (VP (VB take)
+          (NP (DT the) (JJ other) (NNS students))
+          (PRT (RP away))
+          (PP (IN from)
+            (NP (DT the) (NNS others) (NNS ones))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR (IN If#35#Contingency)
+      (S
+        (NP (PRP we))
+        (VP (VBP do)
+          (SBAR
+            (SBAR
+              (S
+                (NP (DT this) (NN policy) (NN student))
+                (VP (MD will)
+                  (VP (VB try)
+                    (S
+                      (VP (TO to)
+                        (VP (VB raise)
+                          (NP (PRP$ their) (NN grade)))))))))
+            (CC but#11#Comparison)
+            (SBAR (IN if#36#Contingency)
+              (S
+                (NP (PRP they))
+                (VP (MD ca) (RB n't)
+                  (FRAG
+                    (WHNP (WP what))))))))))
+    (VP (VBZ happens)
+      (S
+        (NP (PRP they))
+        (NP (PRP them))))
+    (. .)))
+(ROOT
+  (SQ (MD Should)
+    (NP (PRP they))
+    (ADVP (RB just))
+    (VP
+      (VP (VB be)
+        (NP
+          (NP (NN out))
+          (PP (IN of)
+            (NP (PRP it)))))
+      (CC and#7#0)
+      (VP (VB think)
+        (NP (DT that) (NNS schools) (NN boarding))))
+    (. ?)))
+(ROOT
+  (S
+    (SBAR (IN If#37#Contingency)
+      (S
+        (NP (PRP they))
+        (VP (VBP do)
+          (NP (DT this)))))
+    (NP (PRP$ its))
+    (VP (VBP like)
+      (S
+        (VP (VBG taking)
+          (PRT (RP away))
+          (NP (PRP$ their) (NN video) (NNS games)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG saying))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (NP (DT the) (NN right)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (PRT (RP out))
+                    (PP (IN for#18#0)
+                      (NP (NNS sports)
+                        (CC or#24#0)
+                        (NNS activities)))))))))))
+    (. .)))
