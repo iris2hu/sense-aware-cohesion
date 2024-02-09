@@ -16,7 +16,7 @@ This project releases the automatic analysis tool and the data in the article:
 
 **2. Stanford CoreNLP setup**
 
-In this study, we used **`stanford-corenlp-3.6.0`** for constituent parsing. You may find newer versions [`here`](https://stanfordnlp.github.io/CoreNLP/download.html).
+In this study, we used **`stanford-corenlp-3.6.0`** for constituent parsing. You may find newer versions [`here`](https://stanfordnlp.github.io/CoreNLP/download.html). Experiments showed that version differences have minimal impact on the results.
 
 Download the zip file (approx. 400-500 MB) which includes (1) CoreNLP code jar, (2) CoreNLP models jar, (3) required libraries, and (4) documentation/source code.
 
